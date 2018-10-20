@@ -1,6 +1,6 @@
 # SocketDots
 
-Draw circles on your screen and see them appear on other devices, if they are connected to the same server
+Draw circles on your screen and see them appear on other devices!
 
 Using:
   - Socket.IO (http://socket.io/)
